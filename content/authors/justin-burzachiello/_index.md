@@ -23,7 +23,7 @@ education:
     - course: B.S.
       institution: Physics
       year: 2023
-superuser: false
+superuser: true
 ---
 Justin Burzachiello is a 3rd-year undergraduate physics major at the University of California, Riverside. His degree is in Applied Physics and Engineering, and is specialized into Computer Science with the goal of devloping skills in artificial intelligence.
 
