@@ -34,7 +34,7 @@ education:
     - course: B.S.
       institution: Physics
       year: 2023
-superuser: true
+superuser: false
 highlight_name: false
 title: Nelson Bighetti
 email: ""
